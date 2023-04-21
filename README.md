@@ -269,7 +269,6 @@ layer:
   show-aggregated-changes: false
 
 ```
-
 dive will search for configs in the following locations:
 - `$XDG_CONFIG_HOME/dive/*.yaml`
 - `$XDG_CONFIG_DIRS/dive/*.yaml`
